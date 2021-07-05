@@ -21,6 +21,7 @@ body{
     border-radius: 10px;
     transition: .5s;
     color:orangered;
+    padding: 5px;
 
 }
 .first-right-width{
@@ -34,7 +35,8 @@ body{
     font-weight: bold;
     border :2px solid black;
     border-radius: 10px;
-    color: orangered;  
+    color: orangered; 
+    padding: 5px; 
 }
 .first-right-width ul li:hover{
     background-color: black;
