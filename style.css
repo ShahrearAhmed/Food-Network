@@ -88,3 +88,42 @@ body{
     padding: 20px;
 }
 /*Second Section*/
+
+/*Third Section*/
+
+.third-section{
+    display: flex;
+    margin: 0;
+    background-image: url(images/shapes/third-section-bg.jpg);
+    margin-top: 100px;
+}
+.third-left-width{
+    width: 50%;
+}
+.third-left-width img{
+    width: 40%;
+    margin: 100px;
+    padding: 100px;
+
+    
+}
+.third-right-width{
+    width: 50%;
+    margin: 100px;
+    padding: 100px;
+    
+}
+.third-right-width h3{
+    font-size: 40px;
+    font-weight: bold;
+    margin: 30px;
+    padding: 30px;
+}
+.third-right-width p{
+    font-size: 25px;
+    color: gray;
+    font-weight: bold;
+    margin-bottom: 70px;
+    padding-left: 50px;
+}
+/*Third Section*/
