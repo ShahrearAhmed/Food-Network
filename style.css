@@ -11,7 +11,7 @@ body{
 .first-left-width{
     width: 20%;
     margin: 20px;
-    padding-left: 20px;
+    padding-left: 25px;
     font-size: 25px;
     font-weight: bold;
 }
@@ -42,3 +42,4 @@ body{
     background-color: black;
     transition: .5s;
 }
+/*First Section*/
