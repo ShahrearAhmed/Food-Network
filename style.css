@@ -164,14 +164,15 @@ body{
      margin:2%;
      padding: 2%;
      border-radius: 10px;
-     box-shadow: 5px 5px 5px 2px gray;  
+     box-shadow: 10px 10px 20px 20px gray;  
  }
+ 
  .fifth-middle-width{
      width:28%;
      margin:2%;
      padding: 2%;
      border-radius: 10px;
-     box-shadow:5px 5px 5px 2px  gray;  
+     box-shadow: 10px 10px 20px 20px gray;  
 
  }
  .fifth-right-width{
@@ -181,12 +182,15 @@ body{
      border-radius: 10px;
      box-shadow: 10px 10px 20px 20px gray;  
  }
+ 
  #fifth-img-width{
      width:70%;
      margin:2%;
      padding: 2%;
+     border:30px;
      border-radius: 10px;
  }
+
  .recipies-title{
     font-weight: bold;
     font-size: 25px;
@@ -199,6 +203,7 @@ body{
     color: gray;
     font-weight: bold;    
  }  
+
  
  /*Fifth Section*/
  
