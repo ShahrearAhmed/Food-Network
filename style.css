@@ -97,6 +97,8 @@ body{
     margin: 0;
     background-image: url(images/shapes/third-section-bg.jpg);
     margin-top: 100px;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 .third-left-width{
     width: 50%;
@@ -166,6 +168,11 @@ body{
      border-radius: 10px;
      box-shadow: 10px 10px 20px 20px gray;  
  }
+ .fifth-left-width img{
+    border:30px;
+    border-radius: 10px;
+ }
+
  
  .fifth-middle-width{
      width:28%;
